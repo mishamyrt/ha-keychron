@@ -1,0 +1,10 @@
+{
+    "domain": "keychron_rgb",
+    "name": "Keychron RGB",
+    "issue_tracker": "https://github.com/mishamyrt/keychron-rgb/issues",
+    "documentation": "https://github.com/mishamyrt/keychron-rgb",
+    "requirements": [],
+    "codeowners": ["@mishamyrt"],
+    "config_flow": false,
+    "version": "0.0.1"
+  }
